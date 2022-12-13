@@ -21,7 +21,7 @@
 | Jill Underpole | Cloud Ring      |
 | Jingle Ringford       | Staging     |
 | Luigi | Burning Ring of Fire     |
-| Morcel Nougat | Tolkien Ring ?     |
+| Morcel Nougat | Underground in front of Tolkien Ring ?     |
 | Palzari | Burning Ring of Fire     |
 | Quacker | Castle (right) |
 | Ripping Proudboot | Elfen Ring / Elf House     |
@@ -33,7 +33,7 @@
 | Smilegol | Castle  |
 | Sparkle Redberry | Tolkien Ring     |
 | Sulfrod | Cloud Ring      |
-| Tangle Coalbox | Web Ring ?    |
+| Tangle Coalbox | Underground in front of Web Ring  |
 | Timpy Toque | Castle (left) |
 | Tinsel Upatree | Elfen Ring / Elf House    |
 | Wombley Cube | Burning Ring of Fire     |
