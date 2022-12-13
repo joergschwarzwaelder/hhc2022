@@ -5,7 +5,8 @@
 **Elf: Tinsel Upatree**
 
 This objective is about getting familiar with the rest of breaking out of a docker container if the permissions are not set appropriately.
-
+With the below commands, we determine the root filesystem of the system and mount it into the Docker container.
+That way we can easily get hold of the flag in the private key file.
 
 ```
 sudo root
@@ -20,4 +21,4 @@ cat /mnt/joergen/home/jailer/.ssh/jail.key.priv
 
 **082bb339ec19de4935867**
 
-**Achievement: Elfen Ring**
+**Achievement: Prison Escape**
