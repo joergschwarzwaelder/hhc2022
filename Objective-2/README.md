@@ -32,6 +32,7 @@ The used certificates were registered to the following countries:
  - IL - Israel
  - SS - South Sudan
  - US - United States of America
+
 ** Israel, South Sudan, United States of America**
 
 10. Is the host infected (Yes/No)?
