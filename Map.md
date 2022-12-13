@@ -2,9 +2,15 @@
 
 # Maps of the Game
 
+Staging
+
+![Map of the Staging Area](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/Staging.png)
+---
+
+
 Castle Approach
 
-![Map of Castle Approach](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/castle%20approach.png)
+![Map of Castle Approach](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/Castle%20Approach.png)
 ---
 
 Underground
@@ -41,3 +47,17 @@ Cloud Ring
 Burning Ring of Fire
 
 ![Map of the Burning Ring of Fire Area](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/Burning%20Ring%20of%20Fire.png)
+---
+
+
+Castle
+
+![Map of the Castle](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/Castle.png)
+
+---
+
+
+Shenanigans
+
+![Map of the Shenanigans Area](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/Shenanigans.png)
+
