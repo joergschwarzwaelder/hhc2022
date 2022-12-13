@@ -1,5 +1,4 @@
 
-
 # Objective 3: Windows Event Logs
 **Location: Tolkien Ring**  
 **Elf: Dusty Giftwrapy**
