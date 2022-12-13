@@ -12,6 +12,7 @@ Hall of Talks
 
 ![Map of the Hall of Talks](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/Hall%20of%20Talks.png)
 Tolkien Ring
+
 ![Map of the Tolkien Ring Area](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/Tolkien%20Ring.png)
 
 Elfen Ring
