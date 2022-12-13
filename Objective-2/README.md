@@ -33,10 +33,11 @@ The used certificates were registered to the following countries:
  - SS - South Sudan
  - US - United States of America
 
-** Israel, South Sudan, United States of America**
+**Israel, South Sudan, United States of America**
 
 7. Is the host infected (Yes/No)?
+
 **Yes**
- - 
+
 
 **Achievement: Wireshark Practice**
