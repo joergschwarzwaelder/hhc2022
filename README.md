@@ -30,7 +30,8 @@
   - [Objective 5: Clone with a Difference](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-5)
   - [Objective 6: Prison Escape](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-6)
   - [Objective 7: Jolly CI/CD](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-7)
-  - ### Recover the Web Ring ![The Web Ring](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/web_ring.png)
+  - ### Recover the Web Ring 
+ ![The Web Ring](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/web_ring.png)
   - #### Boria PCAP Mining
   - [Objective 8.1: Naughty IP](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-8.1)
   - [Objective 8.2: Credential Mining](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-8.2)
