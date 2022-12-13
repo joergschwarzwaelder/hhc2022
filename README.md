@@ -35,9 +35,9 @@
 ### Recover the Web Ring 
  ![The Web Ring](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/web_ring.png)
 #### Boria PCAP Mining
-  - [Objective 8.1: Naughty IP](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-8.1)
-  - [Objective 8.2: Credential Mining](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-8.2)
-  - [Objective 8.3: 404 FTW](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-8.3)
+  - [Objective 8.1: Naughty IP](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-8)
+  - [Objective 8.2: Credential Mining](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-8)
+  - [Objective 8.3: 404 FTW](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-8)
 
   - [Objective 9: Open Boria Mine Door](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-9)
   - [Objective 10: Glamtariel's Fountain](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-10)
