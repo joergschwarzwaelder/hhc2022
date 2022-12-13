@@ -17,11 +17,17 @@
 | Fitzy Shortstack | Tolkien Ring     |
 | Garland Candlesticks | Castle Approach (left) |
 | Gerty Snowburrow | Cloud Ring      |
+| Grinchum | Underground in front of Tolkien Ring|
+| Grinchum | Tolkien Ring|
+| Grinchum | Elfen Ring / Elf House|
+| Grinchum | Web Ring / Fountain |
+| Grinchum | Cloud Ring |
+| Grinchum | Burning Ring of Fire |
 | Hal Tandybuck | Web Ring     |
 | Jill Underpole | Cloud Ring      |
 | Jingle Ringford       | Staging     |
 | Luigi | Burning Ring of Fire     |
-| Morcel Nougat | Underground in front of Tolkien Ring |
+| Morcel Nougat | Underground in front of Elfen Ring |
 | Palzari | Burning Ring of Fire     |
 | Quacker | Castle (right) |
 | Ripping Proudboot | Elfen Ring / Elf House     |
