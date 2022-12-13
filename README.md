@@ -48,7 +48,7 @@
   - [Objective 13: Exploitation via AWS CLI](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-13)
 ### Recover the Burning Ring of Fire
  ![The Burning Ring of Fire](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/brof.png)
-  - [Objective 14:Buy a Hat](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-14)
+  - [Objective 14: Buy a Hat](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-14)
   - [Objective 15: Blockchain Divination](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-15)
   - [Objective 16: Exploit a Smart Contract](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-16)
 
