@@ -11,11 +11,12 @@
 | Chimney Scissorsticks | Castle Approach (right) |
 | Chorizo | Burning Ring of Fire     |
 | Crozag | Cloud Ring ?     |
+| Cyberus | Castle Approach (left) |
 | Dealer | Castle (right) |
 | Dusty Giftwrap | Tolkien Ring     |
 | Eve Snowshoes | Castle  |
 | Fitzy Shortstack | Tolkien Ring     |
-| Garland Candlesticks | Castle Approach (left) |
+| Garland Candlesticks | Netwars |
 | Gerty Snowburrow | Cloud Ring      |
 | Grinchum | Underground in front of Tolkien Ring|
 | Grinchum | Tolkien Ring|
@@ -28,6 +29,7 @@
 | Jingle Ringford       | Staging     |
 | Luigi | Burning Ring of Fire     |
 | Morcel Nougat | Underground in front of Elfen Ring |
+| North Pole | Castle Approach |
 | Palzari | Burning Ring of Fire     |
 | Quacker | Castle (right) |
 | Ripping Proudboot | Elfen Ring / Elf House     |
