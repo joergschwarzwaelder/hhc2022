@@ -4,18 +4,18 @@
 
 **Disclaimer:** All information and code in this repository is provided as-is, probably not without errors and not ready for production use.
 
-![HHC2021 Logo](https://github.com/joergschwarzwaelder/hhc2021/blob/master/hhc2021-logo.jpg) 
+![HHC2022 Logo](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/hhc2022-logo.jpg) 
 
-**KringleCon 5: Calling Birds!**
+**KringleCon V: Golden Rings**
 
 **Background information:**
 
 
 [Online Game](https://2022.kringlecon.com/)
 
-[Map of the Game](https://github.com/joergschwarzwaelder/hhc2021/blob/master/Map.md)
+[Map of the Game](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Map.md)
 
-[Location of the NPC Characters](https://github.com/joergschwarzwaelder/hhc2022/blob/master/NPC%20Directory.md)
+[Location of the NPC Characters](https://github.com/joergschwarzwaelder/hhc2022/blob/main/NPC%20Directory.md)
 
 ## Main Objectives
 
