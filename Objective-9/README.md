@@ -52,5 +52,6 @@ document.querySelector('form').submit();
 ```
 
 This leads getting all six locks unlocked:
+![All six Boria locks unlocked](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Objective-9/BoriaMineDoor.png)
 
 
