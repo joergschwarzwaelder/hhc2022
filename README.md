@@ -6,7 +6,7 @@
 
 ![HHC2022 Logo](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/hhc2022-logo.jpg) 
 
-**KringleCon 5: Calling Birds!**
+**KringleCon V: Golden Rings**
 
 **Background information:**
 
