@@ -38,6 +38,7 @@ For lock 4 some input sanitization is performed. The first occurrence of `<`, `>
 ### Lock 5
 In lock 5 the input sanitization was improved compared to lock 4. Now all occurrences of`<`, `>`, `"`, and `'` are removed as soon as the focus is removed from the input field ("blur").
 To get this lock solved, the input field is prepared and submitted using Javascript from the browser console. As these six locks are located in individual iframes, the "pin5" context has to be selected upfront.
+![selecting the right context](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Objective-9/BoriaMineDoor-console.png)
 ```
 document.querySelector('input').value='<svg width="210" height="170" xmlns="http://www.w3.org/2000/svg"><line if="lock_5" stroke-width="5" x1="0" y1="138" x2="210" y2="40" stroke="#f00" fill="#ff0000" /><line if="lock_5" stroke-width="5" x1="40" y1="170" x2="210" y2="84" stroke="#00f" fill="#0000ff" /></svg>';
 document.querySelector('form').submit();
