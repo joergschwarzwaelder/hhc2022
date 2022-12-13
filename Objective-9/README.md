@@ -55,5 +55,6 @@ This leads to getting all six locks unlocked:
 ![All six Boria locks unlocked](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Objective-9/BoriaMineDoor.png)
 
 **Achievement: Open Boria Mine Door**
+
 **Achievement: Open Boria Mine Door BONUS**
 
