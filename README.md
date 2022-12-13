@@ -15,7 +15,7 @@
 
 [Map of the Game](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Map.md)
 
-[Location of the NPC Characters](https://github.com/joergschwarzwaelder/hhc2022/blob/master/NPC%20Directory.md)
+[Location of the NPC Characters](https://github.com/joergschwarzwaelder/hhc2022/blob/main/NPC%20Directory.md)
 
 ## Main Objectives
 
