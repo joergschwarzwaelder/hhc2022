@@ -18,11 +18,13 @@ Packet **687**
 5. What is the IP of the Apache server?
 
 ![Screenshot from Wireshark](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Objective-2/objective%202-4.png)
+
 **192.185.57.242**
 
 7. What file is saved to the infected host?
 
 ![Screenshot from Wireshark](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Objective-2/objective%202-5.png)
+
 **Ref_Sept24-2020.zip**
 
 9. Attackers used bad TLS certificates in this traffic. Which countries were they registered to? Submit the names of the countries in alphabetical order separated by commas (Ex: Norway, South Korea).
