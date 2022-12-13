@@ -12,6 +12,7 @@ By navigating to "File / Export Objects / HTTP" we can see, that **app.php** is 
 3. What packet number starts that app.php file?
  
 ![Screenshot from Wireshark](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Objective-2/objective%202-3.png)
+
 Packet **687**
 
 5. What is the IP of the Apache server?
