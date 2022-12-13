@@ -1,6 +1,6 @@
 # SANS Holiday Hack Challenge 2022
 **Write-up submitted by Joerg Schwarzwaelder**  
-**In-game character: joergen**
+**In-game character: joergen** 
 **WalletAddress: 0xe5d7FcfF7ab197Dd9359ED3De8b2C7Fa42200b7B**
 
 **Disclaimer:** All information and code in this repository is provided as-is, probably not without errors and not ready for production use.
