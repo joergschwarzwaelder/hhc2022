@@ -31,7 +31,7 @@ Tolkien Ring
 
 Elfen Ring
 
-![Map of the Tolkien Ring Area](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/Tolkien%20Ring.png)
+![Map of the Elfen Ring Area](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/Elfen%20Ring.png)
 ---
 
 Web Ring
