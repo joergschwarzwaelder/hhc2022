@@ -27,7 +27,7 @@ git config --global user.name "joergen"
 git remote set-url origin git@gitlab.flag.net.internal:rings-of-powder/wordpress.flag.net.internal.git
 ```
 
-Next we check it a PHP script ```test.php``` which will automatically be deployed into the web root:
+Next we check in a PHP script ```test.php``` which will automatically be deployed into the web root:
 ```
 <?php
 if ($handle = opendir('/')) {
