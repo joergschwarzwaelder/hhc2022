@@ -17,6 +17,8 @@
 
 [Location of the NPC Characters](https://github.com/joergschwarzwaelder/hhc2022/blob/main/NPC%20Directory.md)
 
+[KTM Locations](https://github.com/joergschwarzwaelder/hhc2022/blob/main/KTM%20Locations.md)
+
 ## Main Objectives
 
  - [Objective 1: KringleCon Orientation](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-1)
