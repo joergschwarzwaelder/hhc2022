@@ -1,6 +1,4 @@
 
-
-
 # Objective 4: Suricata Regatta
 **Location: Tolkien Ring**  
 **Elf: Fitzy Shortstack**
