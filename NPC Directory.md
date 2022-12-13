@@ -21,7 +21,7 @@
 | Jill Underpole | Cloud Ring      |
 | Jingle Ringford       | Staging     |
 | Luigi | Burning Ring of Fire     |
-| Morcel Nougat | Underground in front of Tolkien Ring ?     |
+| Morcel Nougat | Underground in front of Tolkien Ring |
 | Palzari | Burning Ring of Fire     |
 | Quacker | Castle (right) |
 | Ripping Proudboot | Elfen Ring / Elf House     |
