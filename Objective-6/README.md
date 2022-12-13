@@ -1,5 +1,4 @@
 
-
 # Objective 6: Prison Escape
 **Location: Elfen Ring**  
 **Elf: Tinsel Upatree**
