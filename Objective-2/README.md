@@ -1,5 +1,5 @@
 
-# Objective 1: Wireshark Practice
+# Objective 2: Wireshark Practice
 **Location: Tolkien Ring**  
 **Elf: Sparkle Redberry**
 
