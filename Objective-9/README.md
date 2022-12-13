@@ -60,3 +60,8 @@ This leads to getting all six locks unlocked:
 
 **Achievement: Open Boria Mine Door BONUS**
 
+## Bonus
+It is also possible to embed raster images in the SVG files.
+for example https://github.com/joergschwarzwaelder/hhc2022/blob/main/Objective-9/Lock%203%20plus%20Marie.svg can be used on lock 3:
+![Marie unlocking lock 3](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Objective-9/Lock%203%20plus%20Marie.png)
+
