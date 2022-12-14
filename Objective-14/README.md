@@ -1,6 +1,6 @@
 
 # Objective 14: Buy a Hat
-**Location: Burning Ring of Fire**
+**Location: Burning Ring of Fire / Hat Vending Machine**
 **Elf: Wombley Cube**
 
 This objective is about getting familiar with transactions on a blockchain.
