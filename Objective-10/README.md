@@ -10,7 +10,7 @@ When dragging the four objects on the top right to the princess and the fountain
 After all four objects were dropped to both targets, the four items are replaced.
 The same has to be done again until the four items are again replace with four rings (one red, one silver, two blue).
 
-Based on the hints, that XXE has to applied here and the princess holds the ringlist in a very simple format, we are trying to read the ringlist using XXE from a guessed path. For this the prior POST requests to /dropped can be replayed in Burp and converted to XML (with "different language" the princess ist referring to):
+Based on the hints, that XXE has to applied here and the princess holds the ringlist in a very simple format, we are trying to read the ringlist using XXE from a guessed path (all images are pulled from `/static/images`). For this the prior POST requests to `/dropped` can be replayed in Burp and converted to XML (the "different language" the princess is referring to):
 ```
 Content-Type: application/xml
 
@@ -32,9 +32,9 @@ In fact we are able to get access to the red ring file using the URL https://gla
 
 On the inside of the red ring is written `goldring_to_be_deleted.txt`.
 
-As Glamtariel says that she really would like to have a silver ring (which is with id `img1` on screen), we switch our request over to:
+As Glamtariel says that she really would like to have a silver ring (which is with entity `img1` on screen), we switch our request over to:
 ```
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE reqType [<!ENTITY xxe SYSTEM "file:///app/static/images/x_phial_pholder_2022/goldring_to_be_deleted.txt" >]>
 <root>
     <imgDrop>img1</imgDrop>
@@ -43,7 +43,7 @@ As Glamtariel says that she really would like to have a silver ring (which is wi
 </root>
 ```
 
-Glamtariel responds back with the URL of the gold ring: `static/images/x_phial_pholder_2022/goldring-morethansupertopsecret76394734.png`
+Glamtariel responds back with the relative URL of the gold ring: `static/images/x_phial_pholder_2022/goldring-morethansupertopsecret76394734.png`
 
 
 ![Gold Ring](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Objective-10/goldring-morethansupertopsecret76394734.png)
