@@ -2,7 +2,7 @@
 # Holiday Eggs
 
 ### Jason
-This year Jason is the dead canary in the underground.
+This year Jason is the dead canary in the underground ("I'm not dead. I'm merely resting." - reference to Monty Python's Dead Parrot).
 We can pull the handle in the birdcage and it makes a flush noise (reference to last year where Jason was a toilet flush handle).
 
 ### Shenanigans
