@@ -55,3 +55,5 @@
   - [Objective 15: Blockchain Divination](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-15)
   - [Objective 16: Exploit a Smart Contract](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-16)
 
+## Holiday Eggs
+Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Holiday%20Eggs.md) were discovered.
