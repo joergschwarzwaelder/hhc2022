@@ -1,7 +1,7 @@
 
 # Objective 6: Prison Escape
-**Location: Elfen Ring**  
-**Elf: Tinsel Upatree**
+**Location: Elfen Ring / Elf House / Prison Escape Terminal**  
+**Hints from Bow Ninecandle**
 
 This objective is about getting familiar with the rest of breaking out of a docker container if the permissions are not set appropriately.
 With the below commands, we determine the root filesystem of the system and mount it into the Docker container.

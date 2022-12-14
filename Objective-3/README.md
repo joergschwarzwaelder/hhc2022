@@ -1,7 +1,7 @@
 
 # Objective 3: Windows Event Logs
-**Location: Tolkien Ring**  
-**Elf: Dusty Giftwrapy**
+**Location: Tolkien Ring / Windows Event Logs Terminal**  
+**Hints (2x) from Sparkle Redberry**
 
 This objective is about getting familiar with the analysis of Windows event logs. There are provided for download: https://storage.googleapis.com/hhc22_player_assets/powershell.evtx
 

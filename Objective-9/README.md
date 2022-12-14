@@ -1,7 +1,7 @@
 
 # Objective 9: Open Boria Mine Door
-**Location: Web Ring**  
-**Elf: Hal Tandybuck**
+**Location: Web Ring / Boria Mine Door Terminal**  
+**Hints (3x) from Alabaster Snowball**
 
 This objective is about getting familiar with XXE attacks.
 On each of the six individual locks you an supply input, a browser on the server's side renders an image of that, and this image is eventually displayed in the lock.

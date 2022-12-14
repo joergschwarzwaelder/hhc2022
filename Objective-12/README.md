@@ -1,7 +1,7 @@
 
 # Objective 12: Trufflehog Search
 **Location: Cloud Ring**  
-**Elf: Gerty Snowburrow**
+**Hints (2x) from Jill Underpole**
 
 This objective is about getting familiar with the tool [Trufflehog](https://github.com/trufflesecurity/trufflehog) to find credentials in repositories, in this case specifically [this one](https://haugfactory.com/asnowball/aws_scripts.git).
 

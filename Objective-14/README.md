@@ -1,7 +1,7 @@
 
 # Objective 14: Buy a Hat
-**Location: Burning Ring of Fire**
-**Elf: Wombley Cube**
+**Location: Burning Ring of Fire / Hat Vending Machine**
+**Hints (3x) from Wombley Cube**
 
 This objective is about getting familiar with transactions on a blockchain.
 In this example we buy a hat from the hat vending machine and pay with KringleCoins.
