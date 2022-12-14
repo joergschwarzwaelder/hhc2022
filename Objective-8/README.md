@@ -1,7 +1,7 @@
 
 # Objective 8: Boria PCAP Mining
 **Location: Web Ring**  
-**Elf: Alabaster Snowball**
+**Hints from Alabaster Snowball**
 
 This objective is about getting familiar with the analyzing an attack using a web server log and a PCAP network trace.
 
