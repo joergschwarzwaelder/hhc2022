@@ -15,7 +15,7 @@ When adding our own wallet address along with a dummy address to the script, is 
 allowlist = ['0xe5d7FcfF7ab197Dd9359ED3De8b2C7Fa42200b7B','0x0000000000000000000000000000000000000000']
 ```
 
-As the root for the validation process is contained in the bsrs.js file of the web application, we can modify this to the value required according to Prof. Petabyte's script.
+As the root for the validation process is contained in the bsrs.js file of the web application (and not pulled from the blockchain), we can modify this to the value required according to Prof. Petabyte's script.
 
 ```
 Root: 0x4350073a37d2ea7ffa09192ace76408beee7252f920b20c0423ca5712e19e0e5
@@ -27,7 +27,7 @@ Now we can validate our wallet and proof in the terminal:
 ![enter image description here](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Objective-16/nft-validation.png)
 And finally perform the purchase:
 ![enter image description here](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Objective-16/nft-purchase.png)
-
+**Achievement: Exploit a Smart Contract**
 
 
 
