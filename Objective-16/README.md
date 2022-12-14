@@ -15,7 +15,7 @@ When adding our own wallet address along with a dummy address to the script, it 
 allowlist = ['0xe5d7FcfF7ab197Dd9359ED3De8b2C7Fa42200b7B','0x0000000000000000000000000000000000000000']
 ```
 
-As the root for the validation process is contained in the bsrs.js file of the web application (and not pulled from the blockchain), we can modify this to the value required according to Prof. Petabyte's script.
+As the root for the validation process is contained in the `bsrs.js` file of the web application (and not pulled from the blockchain), we can modify this to the value required according to Prof. Petabyte's script.
 
 ```
 Root: 0x4350073a37d2ea7ffa09192ace76408beee7252f920b20c0423ca5712e19e0e5
