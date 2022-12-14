@@ -12,6 +12,9 @@ In this area is also the Santa Magic terminal to recover the private key of the 
 ### Snowrog
 When you pass through the Tolkien Ring area all the way to the right you stop at an ice bridge.
 A little bit more to the right (unreachable) there is an invisible Snowrog. You can talk to it by tampering with the web socket (talk to `snowrog`).
+```
+{"type":"HELLO_ENTITY","entityType":"npc","id":"snowrog"}
+```
 
 ### Levitation
 At two positions in the Web Ring area it is possible to levitate.
