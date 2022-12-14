@@ -1,6 +1,6 @@
 
 # Objective 1: Orientation
-**Location: Staging**  
+**Location: Staging / Orientation Terminal**  
 **Elf: Jingle Ringford**
 
 This objective is about getting familiar with the Cranberry Pi terminals.
