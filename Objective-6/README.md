@@ -1,6 +1,6 @@
 
 # Objective 6: Prison Escape
-**Location: Elfen Ring**  
+**Location: Elfen Ring / Elf House / Prison Escape Terminal**  
 **Elf: Tinsel Upatree**
 
 This objective is about getting familiar with the rest of breaking out of a docker container if the permissions are not set appropriately.
