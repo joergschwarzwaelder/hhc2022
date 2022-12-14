@@ -1,6 +1,6 @@
 
 # Objective 16: Exploit a Smart Contract
-**Location: Cloud Ring**  
+**Location: Cloud Ring / Bored Sporc Rowboat Society Terminal**  
 **Elf: ?**
 
 This objective is about getting familiar with Merkle tree.
