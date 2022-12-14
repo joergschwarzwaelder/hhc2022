@@ -48,7 +48,4 @@ Glamtariel responds back with the URL of the gold ring: `static/images/x_phial_p
 
 ![Gold Ring](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Objective-10/goldring-morethansupertopsecret76394734.png)
 
-
-
-
-
+**Achievement: Glamtariel's Fountain**
