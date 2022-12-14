@@ -1,7 +1,7 @@
 
 # Objective 7: Jolly CI/CD
 **Location: Elfen Ring / Elf House / Jolly CI/CD Terminal**  
-**Hints from Tinsel Upatree**
+**Hints (2x) from Tinsel Upatree**
 
 This objective is about getting familiar with the benefits and risks of CI/CD pipelines.
 
