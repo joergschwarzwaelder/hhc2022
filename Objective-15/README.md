@@ -5,7 +5,7 @@
 
 This objective is about getting familiar with finding information on a blockchain, here especially the definition of a smart contract.
 
-We objective is to find the KringleCoin smart contract definition in the blockchain using the Blockchain Explorer.
+The objective is to find the KringleCoin smart contract definition in the blockchain using the Blockchain Explorer.
 
 We were able to find in block #1 the definition of the KringleCoin contract:
 
