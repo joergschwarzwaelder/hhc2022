@@ -1,7 +1,7 @@
 
 # Objective 11: AWS CLI Intro
 **Location: Cloud Ring / AWS101 Terminal**  
-**Elf: Jill Underpole**
+**Hints from Jill Underpole**
 
 This objective is about getting familiar with the AWS CLI and is a guided exercise.
 
