@@ -9,7 +9,7 @@ These are hash trees which can be used for proofing that a given element is cont
 For this we have to buy an BSRS NFT issued by a terminal. Only wallets included on the pre-sale list (managed on the blockchain) are eligible to buy one. In order to proof that we are on the pre-order list, we have to provide our wallet address and a proof on the purchase.
 
 Using the script [merkle_tree.py](https://github.com/QPetabyte/Merkle_Trees) from Prof. Petabyte's repository we can calculate tree root and proof for given elements.
-When adding our own wallet address along with a dummy address to the script, it calculates which root and proof values would be required.
+When adding our own wallet address along with a dummy address to the script, it calculates which root and proof values would be required for a successful validation.
 
 ```
 allowlist = ['0xe5d7FcfF7ab197Dd9359ED3De8b2C7Fa42200b7B','0x0000000000000000000000000000000000000000']
