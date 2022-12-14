@@ -1,7 +1,7 @@
 
 # Objective 13: Exploitation via AWS CLI
-**Location: Cloud Ring**  
-**Elf: Sulfrod**
+**Location: Cloud Ring / AWS201 Terminal**  
+**Hints from Gerty Snowburrow (2x)**
 
 This objective is to make use of the credentials found in objective 12 using the AWS CLI.
 
