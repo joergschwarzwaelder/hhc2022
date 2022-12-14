@@ -1,7 +1,7 @@
 
 # Objective 16: Exploit a Smart Contract
 **Location: Burning Ring of Fire / Bored Sporc Rowboat Society Terminal**  
-**Elf: ?**
+**Hints from hidden chests (2x)**
 
 This objective is about getting familiar with Merkle tree.
 These are hash trees which can be used for proofing that a given element is contained in this tree whilst using limited resources.
