@@ -1,7 +1,6 @@
 
 # Objective 2: Wireshark Practice
 **Location: Tolkien Ring / Wireshark Phishing Terminal**  
-**Elf: Sparkle Redberry**
 
 This objective is about getting familiar with the analysis of network packet captures using Wireshark.
 
