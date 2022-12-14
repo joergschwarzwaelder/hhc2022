@@ -1,6 +1,6 @@
 
 # Objective 15: Blockchain Divination
-**Location: Cloud Ring / Blockchain Explorer Terminal**  
+**Location: Burning Ring of Fire / Blockchain Explorer Terminal**  
 **Elf: Wombley Cube**
 
 This objective is about getting familiar with finding information on a blockchain, here especially the definition of a smart contract.
