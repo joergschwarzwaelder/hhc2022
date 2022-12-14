@@ -1,7 +1,7 @@
 
 # Objective 5: Clone with a Difference
 **Location: Elfen Ring / Clone with a Difference Terminal**  
-**Elf: Bow Ninecandle**
+**Hints from Bow Ninecandle**
 
 This objective is about getting familiar with the different methods to clone a GIT repository.
 
