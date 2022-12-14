@@ -26,6 +26,8 @@ Now we can put the calculated root into the `bsrs.js` file and are able to valid
 ![enter image description here](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Objective-16/nft-validation.png)
 And finally perform the purchase:
 ![enter image description here](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Objective-16/nft-purchase.png)
+![BSRS #000026](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Objective-16/BSRS26.png)
+
 **Achievement: Exploit a Smart Contract**
 
 
