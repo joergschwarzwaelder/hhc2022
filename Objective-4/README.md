@@ -1,6 +1,6 @@
 
 # Objective 4: Suricata Regatta
-**Location: Tolkien Ring**  
+**Location: Tolkien Ring / Suricata Regatta Terminal**  
 **Elf: Fitzy Shortstack**
 
 This objective is about getting familiar with the [Suricata](https://suricata.io/) open spource network analysis and threat detection software.
