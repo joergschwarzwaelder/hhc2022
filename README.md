@@ -57,3 +57,8 @@
 
 ## Holiday Eggs
 Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Holiday%20Eggs.md) were discovered.
+
+## Additional
+Marie helped to develop a [frontend for Santa's Data Lake](https://joergschwarzwaelder.github.io/Santas-DataLake.html).
+Using that a detailed analysis of player's progress and HHC2022's success is possible.
+Santa is able to see for each individual wallet, which Rings were secured and how many KringleCoins it hold.
