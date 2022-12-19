@@ -8,6 +8,7 @@
 | Angel Candysalt | Castle (right) |
 | Bow Ninecandle | Elfen Ring     |
 | Brozeek | Cloud Ring ?     |
+| Canary (3x) | Underground |
 | Chimney Scissorsticks | Castle Approach (right) |
 | Chorizo | Burning Ring of Fire     |
 | Crozag | Cloud Ring ?     |
@@ -25,6 +26,7 @@
 | Grinchum | Cloud Ring |
 | Grinchum | Burning Ring of Fire |
 | Hal Tandybuck | Web Ring     |
+| Jason | Underground in front of Burning Ring of Fire |
 | Jill Underpole | Cloud Ring      |
 | Jingle Ringford       | Staging     |
 | Luigi | Burning Ring of Fire     |
@@ -39,6 +41,7 @@
 | Seller | Castle (right) |
 | Slicmer | Burning Ring of Fire     |
 | Smilegol | Castle  |
+| Snowrog (invisible) | Tolkien Ring |
 | Sparkle Redberry | Tolkien Ring     |
 | Sulfrod | Cloud Ring      |
 | Tangle Coalbox | Underground in front of Web Ring  |

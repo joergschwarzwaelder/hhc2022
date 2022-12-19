@@ -38,10 +38,10 @@
 ### Recover the Web Ring 
  ![The Web Ring](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/web_ring.png)
 #### Boria PCAP Mining
-  - [Objective 8.1: Naughty IP](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-8)
-  - [Objective 8.2: Credential Mining](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-8)
-  - [Objective 8.3: 404 FTW](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-8)
-
+  - [Objective 8.1: Naughty IP](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-8#objective-naughty-ip)
+  - [Objective 8.2: Credential Mining](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-8#objective-credential-mining)
+  - [Objective 8.3: 404 FTW](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-8#objective-404-ftw)
+  - [Objective 8.4: IMDS, XXE, and Other Abbreviations](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-8#objective-imds-xxe-and-other-abbreviations)
   - [Objective 9: Open Boria Mine Door](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-9)
   - [Objective 10: Glamtariel's Fountain](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-10)
 ### Recover the Cloud Ring
@@ -55,3 +55,5 @@
   - [Objective 15: Blockchain Divination](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-15)
   - [Objective 16: Exploit a Smart Contract](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-16)
 
+## Holiday Eggs
+Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Holiday%20Eggs.md) were discovered.

@@ -47,7 +47,8 @@ document.querySelector('form').submit();
 
 ### Lock 6
 ```
-<svg width="210" height="170" xmlns="http://www.w3.org/2000/svg"><line if="lock_6" stroke-width="5" x1="0" y1="33" x2="210" y2="33" stroke="#0f0" fill="#00ff00" />
+<svg width="210" height="170" xmlns="http://www.w3.org/2000/svg">
+<line if="lock_6" stroke-width="5" x1="0" y1="33" x2="210" y2="33" stroke="#0f0" fill="#00ff00" />
 <line if="lock_6" stroke-width="5" x1="0" y1="74" x2="210" y2="110" stroke="#f00" fill="#ff0000" />
 <line if="lock_6" stroke-width="5" x1="0" y1="115" x2="145" y2="170" stroke="#00f" fill="#0000ff" />
 </svg>
