@@ -6,7 +6,7 @@
 This objective is about getting familiar with Merkle trees.
 These are hash trees which can be used for proofing that a given element is contained in this tree whilst using limited resources.
 
-For this we have to buy an BSRS NFT issued by a terminal. Only wallets included on the pre-sale list (managed on the blockchain) are eligible to buy one. In order to proof that we are on the pre-order list, we have to provide our wallet address and a proof on the purchase.
+For this we have to buy an BSRS NFT issued by a terminal. Only wallets included on the pre-sale list (managed on the blockchain) are eligible to buy one. In order to proof that we are on the pre-order list, we have to provide our wallet address and a proof.
 
 Using the script [merkle_tree.py](https://github.com/QPetabyte/Merkle_Trees) from Prof. Petabyte's repository we can calculate tree root and proof for given elements.
 When adding our own wallet address along with a dummy address to the script, it calculates which root and proof values would be required for a successful validation.
