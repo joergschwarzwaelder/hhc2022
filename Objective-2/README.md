@@ -5,6 +5,9 @@
 This objective is about getting familiar with the analysis of network packet captures using Wireshark.
 
 1. What type of objects can be exported from this PCAP?
+
+We can export HTTP objects from the provided PCAP file.
+
 2. What is the file name of the largest file we can export?
 
 By navigating to "File / Export Objects / HTTP" we can see, that **app.php** is the largest object.
