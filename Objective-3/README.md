@@ -3,7 +3,7 @@
 **Location: Tolkien Ring / Windows Event Logs Terminal**  
 **Hints (2x) from Sparkle Redberry**
 
-This objective is about getting familiar with the analysis of Windows event logs. There are provided for download: https://storage.googleapis.com/hhc22_player_assets/powershell.evtx
+This objective is about getting familiar with the analysis of Windows event logs. The log file is provided for download: https://storage.googleapis.com/hhc22_player_assets/powershell.evtx
 
 In order to complete this objective, the event log file was exported to an XML file for easier handling:
 
