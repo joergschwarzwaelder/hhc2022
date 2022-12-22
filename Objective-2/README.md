@@ -31,6 +31,7 @@ Packet **687**
 **Ref_Sept24-2020.zip**
 
 6. Attackers used bad TLS certificates in this traffic. Which countries were they registered to? Submit the names of the countries in alphabetical order separated by commas (Ex: Norway, South Korea).
+
 The used certificates were registered to the following countries:
  - IL - Israel
  - SS - South Sudan
