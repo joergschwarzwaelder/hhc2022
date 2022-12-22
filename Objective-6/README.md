@@ -3,8 +3,8 @@
 **Location: Elfen Ring / Elf House / Prison Escape Terminal**  
 **Hints from Bow Ninecandle**
 
-This objective is about getting familiar with the rest of breaking out of a docker container if the permissions are not set appropriately.
-With the below commands, we determine the root filesystem of the system and mount it into the Docker container.
+This objective is about getting familiar with breaking out of a docker container if the permissions are not set appropriately.
+With the below commands, we determine the root filesystem of the host system and mount it into the Docker container.
 That way we can easily get hold of the flag in the private key file.
 
 ```
