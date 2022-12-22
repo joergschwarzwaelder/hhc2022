@@ -3,7 +3,7 @@
 **Location: Tolkien Ring / Suricata Regatta Terminal**  
 **Hints from Dusty Giftwrap**
 
-This objective is about getting familiar with the [Suricata](https://suricata.io/) open spource network analysis and threat detection software.
+This objective is about getting familiar with the [Suricata](https://suricata.io/) open source network analysis and threat detection software.
 
 
 1. Create a Suricata rule to catch DNS lookups for adv.epostoday.uk
