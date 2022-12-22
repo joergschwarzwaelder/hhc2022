@@ -7,11 +7,11 @@
 | Alabaster Snowball | Web Ring     |
 | Angel Candysalt | Castle (right) |
 | Bow Ninecandle | Elfen Ring     |
-| Brozeek | Cloud Ring ?     |
+| Brozeek | Underground / Cloud Ring Level |
 | Canary (3x) | Underground |
 | Chimney Scissorsticks | Castle Approach (right) |
 | Chorizo | Burning Ring of Fire     |
-| Crozag | Cloud Ring ?     |
+| Crozag | Underground / Cloud Ring Level  |
 | Cyberus | Castle Approach (left) |
 | Dealer | Castle (right) |
 | Dusty Giftwrap | Tolkien Ring     |
@@ -19,18 +19,18 @@
 | Fitzy Shortstack | Tolkien Ring     |
 | Garland Candlesticks | Netwars |
 | Gerty Snowburrow | Cloud Ring      |
-| Grinchum | Underground in front of Tolkien Ring|
+| Grinchum | Underground / Tolkien Ring Level |
 | Grinchum | Tolkien Ring|
 | Grinchum | Elfen Ring / Elf House|
 | Grinchum | Web Ring / Fountain |
 | Grinchum | Cloud Ring |
 | Grinchum | Burning Ring of Fire |
 | Hal Tandybuck | Web Ring     |
-| Jason | Underground in front of Burning Ring of Fire |
+| Jason | Underground / Burning Ring of Fire Level |
 | Jill Underpole | Cloud Ring      |
 | Jingle Ringford       | Staging     |
 | Luigi | Burning Ring of Fire     |
-| Morcel Nougat | Underground in front of Elfen Ring |
+| Morcel Nougat | Underground /Elfen Ring Level |
 | North Pole | Castle Approach |
 | Palzari | Burning Ring of Fire     |
 | Quacker | Castle (right) |
@@ -44,7 +44,7 @@
 | Snowrog (invisible) | Tolkien Ring |
 | Sparkle Redberry | Tolkien Ring     |
 | Sulfrod | Cloud Ring      |
-| Tangle Coalbox | Underground in front of Web Ring  |
+| Tangle Coalbox | Underground /Web Ring Level |
 | Timpy Toque | Castle (left) |
 | Tinsel Upatree | Elfen Ring / Elf House    |
 | Wombley Cube | Burning Ring of Fire     |
