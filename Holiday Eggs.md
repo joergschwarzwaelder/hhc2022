@@ -10,7 +10,7 @@ The pole at the North Pole/Castle Approach is now an NPC and able to speak.
 
 ### Shenanigans
 There is again a [Shenanigans area](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/Shenanigans.png) (Terry Pratchett Discworld themed). The entrance is on the left side of the castle.
-In this area is also the Santa Magic terminal to recover the private key of the wallet in case is got lost.
+In this area is also the Santa Magic terminal to recover the private key of the wallet in case it got lost.
 
 ### Snowrog
 When you pass through the Tolkien Ring area all the way to the right you stop at an ice bridge.
