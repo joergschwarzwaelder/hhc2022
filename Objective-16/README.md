@@ -3,7 +3,7 @@
 **Location: Burning Ring of Fire / Bored Sporc Rowboat Society Terminal**  
 **Hints (2x) from hidden chests**
 
-This objective is about getting familiar with Merkle tree.
+This objective is about getting familiar with Merkle trees.
 These are hash trees which can be used for proofing that a given element is contained in this tree whilst using limited resources.
 
 For this we have to buy an BSRS NFT issued by a terminal. Only wallets included on the pre-sale list (managed on the blockchain) are eligible to buy one. In order to proof that we are on the pre-order list, we have to provide our wallet address and a proof on the purchase.
