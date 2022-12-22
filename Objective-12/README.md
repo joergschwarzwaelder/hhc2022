@@ -12,7 +12,7 @@ $ aws sts get-caller-identity
 ```
 We are running Trufflehog against the repository:
 ```
-joergen@northpole:~$ trufflehog --debug git https://haugfactory.com/asnowball/aws_scripts.git
+joergen@northpole:~$ trufflehog git https://haugfactory.com/asnowball/aws_scripts.git
 
 🐷🔑🐷  TruffleHog. Unearth your secrets. 🐷🔑🐷
 
