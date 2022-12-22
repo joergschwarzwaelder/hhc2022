@@ -6,7 +6,7 @@
 This objective is about getting familiar with the [Suricata](https://suricata.io/) open source network analysis and threat detection software.
 
 
-1. First, please create a Suricata rule to catch DNS lookups for adv.epostoday.uk.
+1. First, please create a Suricata rule to catch DNS lookups for adv.epostoday.uk. 
 Whenever there's a match, the alert message (msg) should read **Known bad DNS lookup, possible Dridex infection**.
 
 ```alert dns any any -> any any (msg:"Known bad DNS lookup, possible Dridex infection"; dns.query; content:"adv.epostoday.uk"; nocase; sid:1;)```
