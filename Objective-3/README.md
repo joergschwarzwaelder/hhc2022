@@ -8,6 +8,7 @@ This objective is about getting familiar with the analysis of Windows event logs
 In order to complete this objective, the event log file was exported to an XML file for easier handling:
 
 > apt-get install libevtx-utils
+> 
 > evtxexport powershell.evtx >
 > powershell.xml
 
