@@ -6,6 +6,7 @@ This objective is about getting familiar with the analysis of network packet cap
 
 1. What type of objects can be exported from this PCAP?
 2. What is the file name of the largest file we can export?
+
 By navigating to "File / Export Objects / HTTP" we can see, that **app.php** is the largest object.
 
 3. What packet number starts that app.php file?
