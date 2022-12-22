@@ -39,6 +39,7 @@ response = iam.put_user_policy(
 So the credentials are:
 
 aws_access_key_id: **AKIAAIDAYRANYAHGQOHD**
+
 aws_secret_access_key: **e95qToloszIgO9dNBsQMQsc5/foiPdKunPJwc1rL**
 
 The following tasks are guided in a Cranberry Pi terminal:
