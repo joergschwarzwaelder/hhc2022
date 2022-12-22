@@ -22,8 +22,7 @@ When there's a match, the message (msg) should read **Investigate suspicious con
 
   
 
-3. 
-We heard that some naughty actors are using TLS certificates with a specific CN.
+3. We heard that some naughty actors are using TLS certificates with a specific CN.
 
 Develop a Suricata rule to match and alert on an SSL certificate for heardbellith.Icanwepeh.nagoya. 
 
