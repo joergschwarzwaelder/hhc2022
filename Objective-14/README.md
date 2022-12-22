@@ -6,7 +6,7 @@
 This objective is about getting familiar with transactions on a blockchain.
 In this example we buy a hat from the hat vending machine and pay with KringleCoins.
 
-We select a sailor hat. The machine tell us to pre-approve the transfer of 10 KC at a KTM to the wallet address 0x7Ec47B5ca7E6230377590F02ACCDD02DB98AB1aD.
+We select a sailor hat. The machine tells us to pre-approve the transfer of 10 KC at a KTM to the wallet address 0x7Ec47B5ca7E6230377590F02ACCDD02DB98AB1aD.
 
 After having done this, the hat vending machine confirms the transaction and provides the hat to us.
 
