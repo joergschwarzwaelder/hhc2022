@@ -8,7 +8,7 @@ This objective is about getting familiar with XXE attacks.
 When dragging the four objects on the top right to the princess and the fountain, they respond with several hints in upper case.
 
 After all four objects were dropped to both targets, the four items are replaced.
-The same has to be done again until the four items are again replace with four rings (one red, one silver, two blue).
+The same has to be done again until the four items are again replaced with four rings (one red, one silver, two blue).
 
 Based on the hints, that XXE has to applied here and the princess holds the ringlist in a very simple format, we are trying to read the ringlist using XXE from a guessed path (all images are pulled from `/static/images`). For this the prior POST requests to `/dropped` can be replayed in Burp and converted to XML (the "different language" the princess is referring to):
 ```
