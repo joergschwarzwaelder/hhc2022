@@ -19,7 +19,7 @@ AAAEBL0qH+iiHi9Khw6QtD6+DHwFwYc50cwR0HjNsfOVXOcv7AsdI7HOvk4piOcwLZfDot
 PqBj2tDq9NBdTUkbZBriAAAAFHNwb3J4QGtyaW5nbGVjb24uY29tAQ==
 -----END OPENSSH PRIVATE KEY-----
 ```
-Next we copy this SSH private key into ```~/.ssh/id_rsa```.
+Next we copy this SSH private key into ```~/.ssh/id_rsa```, so that this key is automatically used by all SSH-based GIT interactions.
 
 ```
 git config --global user.email "joergen@north.pole"
