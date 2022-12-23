@@ -41,6 +41,8 @@ The used certificates were registered to the following countries:
 
 7. Is the host infected (Yes/No)?
 
+The host performs a DNS lookup for **adv.epostoday.uk** in packet #697 which is considered malicious (according to [Objective 4](https://github.com/joergschwarzwaelder/hhc2022/tree/main/Objective-4)).
+
 **Yes**
 
 
