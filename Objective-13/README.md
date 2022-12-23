@@ -338,8 +338,6 @@ elf@5486ce1f7db5:~$ aws lambda get-function-url-config --function-name smogmachi
     "LastModifiedTime": "2022-09-07T19:28:23.808713Z"
 }
 elf@5486ce1f7db5:~$
-
-
 ```
 
 **Achievement: Exploitation via AWS CLI**
